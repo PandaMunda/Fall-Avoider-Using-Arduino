@@ -9,6 +9,8 @@ You can get all the material for the above using the following links:
 
 2 x Dc Motor --> https://a.co/d/hThEPPq
 
+2 x IR Sensor --> https://a.co/d/a8pLr5r
+
 1 x L298 Motor Driver --> https://a.co/d/6bdZdHH
 
 1 x Arduino Uno --> https://a.co/d/2X68hMl

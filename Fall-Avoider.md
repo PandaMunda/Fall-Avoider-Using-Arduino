@@ -28,7 +28,7 @@ On the chassis for the bot put all components for working something like this:
 
 After that the connections can be done as shown in the schematics below:
 
-<img src="https://github.com/PandaMunda/Fall-Avoider-Using-Arduino/assets/128840537/0b4be86b-4799-4d42-90b3-47a11285d5ca" width="800" height="600" />
+<img src="https://github.com/PandaMunda/Line-Follower/assets/128840537/f673fe63-57e7-4670-9b1c-b89ec73370d1" width="800" height="600" />
 
 Now for the coding part i will provide the code below for the functioning:
 
